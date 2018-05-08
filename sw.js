@@ -3,7 +3,7 @@ const staticAssets = [
     './styles.css',
     './app.js',
     './fallback.json',
-    './images/fetch-dog.jpg',
+    './images/dobuss.jpg'
 
 ];
 
